@@ -1,0 +1,22 @@
+:root {
+  --body-background: rgba(24, 24, 27);
+  --border-color: rgba(39, 39, 42);
+  --color: rgba(255, 255, 255);
+  --text-blue: rgba(59, 130, 246);
+  --text-gary: rgba(113, 113, 122);
+  --bg-gray: rgba(63, 63, 70);
+  --text-gray2: rgba(161, 161, 170);
+  --green: rgba(16, 185, 129);
+  --border-color-dot: rgba(24, 24, 27);
+  --search-border: rgba(63, 63, 70);
+  --left-content-button: rgba(39, 39, 42);
+  --doller: rgba(113, 113, 122);
+  --description-background: rgba(24, 24, 27);
+  --sales-green: rgba(5, 150, 105);
+  --marketing-yellow: rgba(217, 119, 6);
+  --design-blue: rgba(59, 130, 246);
+  --tbody-color: rgba(244, 244, 245);
+  --three-dot-table: rgba(161, 161, 170);
+  --text-red: rgba(239, 68, 68);
+  --yellow: rgba(245, 158, 11);
+}
